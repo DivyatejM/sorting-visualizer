@@ -16,7 +16,7 @@ A Sorting Algorithm Vizualization tool which helps to understand the working of 
 0.5X to 4.0X
 <br><br>
 ### Time Complexity of these Algorithms.
-Link : <a href="https://divyatejm.github.io/sorting-visualizer/">Sorting Visualizer</a>
+Link : <a href="https://divyatejm.github.io/sorting-visualizer/" target="_blank">Sorting Visualizer</a>
 <br><br>
 
 
